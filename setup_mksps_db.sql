@@ -1,6 +1,6 @@
 CREATE DATABASE `mks_ps_db`;
 
-USE DATABASE  `mks_ps_db`;
+USE `mks_ps_db`;
 
 CREATE TABLE `controllers` (
   `id` int NOT NULL AUTO_INCREMENT,
