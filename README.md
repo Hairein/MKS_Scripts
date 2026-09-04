@@ -38,7 +38,7 @@ Run the script once the setup is running healthy (depends on your shell):
 ```bash
 ./setup_database_structure.sh or
 bash setup_database_structure.sh or
-or sh setup_database_structure.sh 
+sh setup_database_structure.sh 
 ```
 
 To stop the entire setup:
